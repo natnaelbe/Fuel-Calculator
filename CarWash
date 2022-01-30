@@ -1,0 +1,104 @@
+#include<iostream>
+#include<cstdio>
+using namespace std;
+ 
+ int main()
+ {
+
+	int regularcarwash;
+	int supercarwash;
+	int superdupercarwash;
+
+ 	
+	printf("There is a drive-thru car wash that offers different services.\n");
+	if(regularcarwash){
+		printf("How many passengers are in the car?\n");
+		scanf("%d\n", &regularcarwash);
+	
+	int age;
+	printf("What is your age?\n");
+	scanf("%d\n", &age);
+	float price1;
+	float totalprice;
+	if(regularcarwash>3){
+		printf("The price for the carwash is the number of passengers multiplied by the user's age.\n'")
+		scanf("%d\n", &regularcarwash * "%d\n", &age);
+	}else{
+		printf("No charge.\n");
+	
+	printf("Price:", "$%.2f\n", price1);
+	printf("Grand total:", "$%.2f\n", totalprice);
+	
+	}
+		
+	
+			
+	}
+	if(supercarwash, age>=65){
+		printf("Price is 50 cents multiplied by all the years in excess of 65.\n");
+		scanf("%f\n", supercarwash);
+		scanf(age==.2f);
+	}else{
+		printf("No charge.\n");
+			printf("Price:\n", "Grand total:\n");	
+	}
+		
+			
+	if(superdupercarwash){
+		printf("How many passengers are in your car?\n", "Are there less than 4?\n");
+		scanf("%d\n", &superdupercarwash);
+	do(superdopercarwash<4, invalidnumber){
+		
+	}while 
+		printf("Try again.\n");
+		char gender ('m'/'f');
+		if(superdupercarwash=='f', gender)
+			printf("%f\n", age*.2f);
+	}else{
+		printf("d\n", age*.2f);
+	}
+					
+					
+		printf("Total price for all the passengers in the car:\n");
+		scanf("%d\n");
+		printf("Grand total:\n");
+		if(userquits){
+			printf("Grand total for everyone:", userquits);
+		}
+		
+		
+		}
+	
+		
+	
+	
+		
+		
+			
+	
+	
+ 	
+
+ 	
+
+	return 0;
+
+
+
+
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
