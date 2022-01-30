@@ -1,0 +1,70 @@
+/***********************************************************************
+ * CSC15  		 
+ *
+ * This class defines a Fuel Calculator class to keep track of the
+ * distance traveled, fuel consumed, and the cost of the gas.
+ * It includes functions to calculate the fuel efficiency for the trip in 
+ * miles per gallon and the average cost of a gallon of gas.
+ *
+ * author Natnael Berhanu 
+ *    
+ */
+
+public class FuelCalculator
+{
+	private int    milesDriven;
+	private double gasUsed;		// Gallons of gas used
+	private double totalCost;
+	
+    //*********************************************************************
+	public void reset()
+	{
+	}
+
+    //*********************************************************************
+	public boolean logMiles(int newMilesDriven, double gasUsed, double costPerGallon)
+	{
+		return false;
+	}
+
+    //*********************************************************************
+	public int getMiles()
+	{
+		return 0;
+	}
+   public double getGasUsed()
+   {
+      return 0.0;
+   }
+   public double getTotalCost()
+   {
+      return 0.0;
+   }
+   public double getFuelEfficiency()
+   {
+      return 0.0;
+   }
+   public double getCostPerGallon()
+   {
+      return 0.0;
+   }
+   public boolean equals (FuelCalculator otherCalculator)
+   {
+      return false;
+   }
+   public String toString()
+   {
+      String milesDriven = "Miles Driven: "+this.milesDriven;
+      //follow the same format structure
+      String gasUsed = "Gas Used: "+this.gasUsed;
+      String totalCost = "Total Cost: $"+this.totalCost;
+      String fuel_efficiency = "Efficiency: mpg"+this.fuel_efficiency;
+      String avgCost = "Average Cost: $ per gallon"+this.avgCost;
+      return "";
+   }
+
+
+    // You need to add stubs here for the remaining methods
+
+
+} // end class FuelCalculator
